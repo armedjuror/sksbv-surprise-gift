@@ -5,7 +5,6 @@ if ($con->error){
     echo $con->error;
 }
 
-//fsU#mjhzQjpm
 
 $update = mysqli_connect('localhost', 'root', '', 'sksbvupdate');
 mysqli_set_charset($update, 'utf8');
