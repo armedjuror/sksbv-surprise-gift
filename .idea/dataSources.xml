@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="sksbv_parentsday@localhost" uuid="996ed6f2-ee3b-4200-946a-a9a222f05c57">
+      <driver-ref>mariadb</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.mariadb.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mariadb://localhost:3306/sksbv_parentsday</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="sksbvupdate@localhost" uuid="c9c9f243-fd2b-42bd-8ac9-85164db2dd27">
+      <driver-ref>mariadb</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.mariadb.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mariadb://localhost:3306/sksbvupdate</jdbc-url>
+    </data-source>
+  </component>
+</project>
